@@ -1,0 +1,18 @@
+Open136 - is open-sourse ULA.
+
+Work plan:
+Physics:
+fuselage
+
+Hardware:
+Motherboard (PCB+simulation)
+Sensors (basics plane sensors)
+Measurement system (telemetry) (PCB+simulation)
+GPS
+Basic station
+
+Software:
+Mission planner
+Navigation and guidance
+Telemetry
+Photo/Video recorder
